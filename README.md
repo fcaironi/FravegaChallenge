@@ -12,7 +12,9 @@ Este proyecto contiene la automatización de pruebas de frontend como parte del 
 ## Instalación
 1. Clonar el repositorio:
     ```bash
-   git clone github.com/fcaironi/FravegaChallenge
+   git clone https://github.com/fcaironi/FravegaChallenge.git
+    
+2. Navegar a la carpeta Frontend\fravega-automation
 
 3. Instalar dependencias:
     ```bash
