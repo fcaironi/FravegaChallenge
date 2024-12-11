@@ -69,7 +69,6 @@ Este proyecto contiene la automatización de pruebas para la API pública de GoR
 
 ## Ejecución de pruebas
 Para ejecutar las pruebas, utiliza el siguiente comando:
-    ```bash
     
     mvn test
 
