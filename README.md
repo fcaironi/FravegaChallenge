@@ -59,7 +59,7 @@ Este proyecto contiene la automatización de pruebas para la API pública de GoR
     ```bash
     git clone github.com/fcaironi/FravegaChallenge
 
-2.Navegar a la carpeta Backend:
+2. Navegar a la carpeta Backend:
     ```bash
     cd Backend
 
