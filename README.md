@@ -45,7 +45,7 @@ El mismo tendrá listado los steps ejecutados con un screenshot asociado por cad
         When usuario elimina el primer producto
         Then usuario verifica que hay 1 productos en el carrito
 
-##BackEnd
+## BackEnd
 
 ## Descripción
 Este proyecto contiene la automatización de pruebas para la API pública de GoRest como parte del challenge de QA Automation. Se utilizó el framework RestAssured para pruebas de API REST, implementado en Java con JUnit 5 como framework de pruebas.
