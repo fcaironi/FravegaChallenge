@@ -11,9 +11,10 @@ Este proyecto contiene la automatización de pruebas de frontend como parte del 
 
 ## Instalación
 1. Clonar el repositorio:
-   git clone github.com/fcaironi/ChallengeFravega
+    ```bash
+   git clone github.com/fcaironi/FravegaChallenge
 
-2. Instalar dependencias:
+3. Instalar dependencias:
     ```bash
    npm install
 
@@ -56,7 +57,7 @@ Este proyecto contiene la automatización de pruebas para la API pública de GoR
 ## Instalación
 1. Clonar el repositorio:
     ```bash
-    git clone github.com/fcaironi/ChallengeFravega
+    git clone github.com/fcaironi/FravegaChallenge
 
 2.Navegar a la carpeta Backend:
     ```bash
